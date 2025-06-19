@@ -24,28 +24,33 @@
 
 // დავალება 4
 
-//string text = "Hello, World!";
-//string text1 = "Hello, World!";
-//bool isEqual = false;
+//string text;
+//string text1;
+//Console.WriteLine("Enter first text: ");
+//text = Console.ReadLine() ?? string.Empty;
+//Console.WriteLine("Enter first text: ");
+//text1 = Console.ReadLine() ?? string.Empty;
 
-//if (text == text1)
+//bool Equals = false;
+
+//if(text != text1)
 //{
-//    isEqual = false;
+//    Equals = false;
 //}
 
 //else
 //{
-//    isEqual = true;
+//    Equals = true;
 //}
 
-//if (isEqual)
+//if (Equals)
 //{
-//    Console.WriteLine("string equals");
+//    Console.WriteLine($"{text} equals {text1}");
 //}
 
 //else
 //{
-//    Console.WriteLine("string not equals");
+//    Console.WriteLine($"{text} doesnt equal {text1}");
 //}
 
 
