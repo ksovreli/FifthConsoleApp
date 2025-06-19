@@ -28,7 +28,7 @@
 //string text1;
 //Console.WriteLine("Enter first text: ");
 //text = Console.ReadLine() ?? string.Empty;
-//Console.WriteLine("Enter first text: ");
+//Console.WriteLine("Enter second text: ");
 //text1 = Console.ReadLine() ?? string.Empty;
 
 //bool Equals = false;
